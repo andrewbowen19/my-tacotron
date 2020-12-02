@@ -221,9 +221,10 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
         for i, batch in enumerate(train_loader):
             print(f'i, batch: {i}, {batch}')
             start = time.perf_counter()
+            print('Updating Param Group learning rate...')
             for param_group in optimizer.param_groups:
                 param_group['lr'] = learning_rate
-
+            print('Preparing Model...')
             model.zero_grad()
             x, y = model.parse_batch(batch)
             y_pred = model(x)
