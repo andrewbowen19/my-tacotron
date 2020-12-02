@@ -33,7 +33,7 @@ def create_hparams(hparams_string=None, verbose=True):#False):
         # Audio Parameters             #
         ################################
         max_wav_value=32768.0, # may need 16 bit files -- check docs
-        sampling_rate=22050, ##44.1kHz for our wav files 
+        sampling_rate=44100, ##44.1kHz for our wav files 
         filter_length=1024,
         hop_length=256,
         win_length=1024,
@@ -81,7 +81,7 @@ def create_hparams(hparams_string=None, verbose=True):#False):
         learning_rate=1e-3,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=64,
+        batch_size=32,#64,
         mask_padding=True  # set model's padded outputs to padded values
     )
 
