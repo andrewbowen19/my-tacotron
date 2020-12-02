@@ -231,7 +231,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
             print('parsing batch [x,y]...')
             x, y = model.parse_batch(batch)
             print('generating y predictive val with input(s)', x)
-            y_pred = model(x)
+            y_pred = model(x.cpu())
             print('Model generated!')
             print('Entering loss function loop')
             loss = criterion(y_pred, y)
