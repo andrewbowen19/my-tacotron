@@ -230,7 +230,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
             model.zero_grad()
             print('parsing batch [x,y]...')
             x, y = model.parse_batch(batch)
-            print('generating y predivtive val')
+            print('generating y predictive val with input(s)', x)
             y_pred = model(x)
             print('Model generated!')
             print('Entering loss function loop')
