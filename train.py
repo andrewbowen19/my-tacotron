@@ -55,7 +55,7 @@ def prepare_dataloaders(hparams):
         shuffle = True
 
     print('[prepare_dataloaders] initializing training loader...')
-    train_loader = DataLoader(trainset, num_workers=10, shuffle=shuffle, ##num_workers was at 1
+    train_loader = DataLoader(trainset, num_workers=1, shuffle=shuffle, ##num_workers was at 1
                               sampler=train_sampler,
                               batch_size=hparams.batch_size, pin_memory=False,
                               drop_last=True, collate_fn=collate_fn)
@@ -231,7 +231,7 @@ def train(output_directory, log_directory, checkpoint_path, warm_start, n_gpus,
             print('parsing batch [x,y]...')
             x, y = model.parse_batch(batch)
             print('generating y predictive val with input(s)', x)
-            y_pred = model(x.cpu())
+            y_pred = model(x)
             print('Model generated!')
             print('Entering loss function loop')
             loss = criterion(y_pred, y)
