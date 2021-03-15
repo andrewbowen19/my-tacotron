@@ -1,18 +1,68 @@
-./data/chunks/chunk-211-LNUPLQ.wav|this is not very good
-./data/chunks/chunk-212-YLLEXW.wav|cheater is without a doubt the most significant draft pick in franchise history
-./data/chunks/chunk-213-ZVIYXP.wav|he along with the core four or fab five or whatever you want to refer to it as
-./data/chunks/chunk-214-QYWXGO.wav|turn the Yankees into a perennial Contender that is not satisfied with a 70-win season netting a top draft pick
-./data/chunks/chunk-215-GVYISP.wav|tanking and rebuilding are no longer in the Yankees vocabulary
-./data/chunks/chunk-216-IUQXRC.wav|92 is significant for another reason if the last time the Yankees had a losing record since then 427 straight Seasons they finish 500 or better
-./data/chunks/chunk-217-JHJBDX.wav|once Jeter debuted in 95 the team won on an unprecedented modern-day playoff run
-./data/chunks/chunk-218-FBBCAZ.wav|they won 5 championships and Jeter supplanted his name along with Ruth Gehrig DiMaggio mantle Munson and all the other Yankees Legends
-./data/chunks/chunk-219-RUKMOM.wav|Judo holds franchise records for games played at bats plate appearances hit doubles stolen bases and number of times reach base
-./data/chunks/chunk-220-SLULHO.wav|also strikeouts but we can ignore that for now
-./data/chunks/chunk-221-EMPSTX.wav|display the most games and racked up the most hits runs scored and total bases in Major League Baseball postseason history
-./data/chunks/chunk-222-ZCMMOU.wav|if you're a Yankees fan born in the 80s 90s or 2000s Derek Jeter is probably your favorite player
-./data/chunks/chunk-223-ZMNTLM.wav|we can thank dick Rock in the five teams that passed on the kid from Kalamazoo for that
-./data/chunks/chunk-224-YEGFPG.wav|and I also think it's fitting that Jeter won 5 championships
-./data/chunks/chunk-225-RKJIWY.wav|one for every team that passed on them
-./data/chunks/chunk-226-BIAPQV.wav|thanks for listening
-./data/chunks/chunk-227-PZRCJQ.wav|synonym for 72 years Lou Gehrig becoming Yankees all-time hit leader now it's Derek Jeter
-
+./data/chunks/chunk-800-FTCGKS.wav|when the MC told the crowd that Gehrig appreciated their support but asked not to speak
+./data/chunks/chunk-801-JWOKAO.wav|they started to chant we want Lou we want Lou they weren't going to let him get out of there without addressing the crowd
+./data/chunks/chunk-802-DFAFEX.wav|then manager Joe McCarthy said something to Derek that changed his mind
+./data/chunks/chunk-803-SQVOYP.wav|y'all should come to the microphone where Lou pause for a minute thinking about what he wanted to say
+./data/chunks/chunk-804-NOZFNT.wav|he took a deep breath
+./data/chunks/chunk-805-GOSKVL.wav|and then gave baseball's Gettysburg Address
+./data/chunks/chunk-806-KSVEOL.wav|in total the speech was about 275 words
+./data/chunks/chunk-807-UVJTMA.wav|only a couple sentences have been preserved on audio and video so you might not be familiar with the whole thing
+./data/chunks/chunk-808-QKRNSH.wav|I'm going to play those and read the rest
+./data/chunks/chunk-809-LFCYHU.wav|I will try to do his words Justice
+./data/chunks/chunk-810-MJDSXF.wav|you probably know how it starts
+./data/chunks/chunk-811-HZQLLI.wav|Derek meant to say break but the word came out brag because he was choked up
+./data/chunks/chunk-812-DBXDJT.wav|he stopped to collect himself and then continued
+./data/chunks/chunk-813-TLOCGY.wav|I have been in ballparks for 17 years and have never received anything but kindness and encouragement from you fans
+./data/chunks/chunk-814-UFAOZZ.wav|sharam lucky
+./data/chunks/chunk-815-HAQYFC.wav|who wouldn't consider it an honor to have known Jacob Ruppert
+./data/chunks/chunk-816-UCSGWZ.wav|also the Builder of baseball's greatest Empire Ed Barrow
+./data/chunks/chunk-817-VDLQMM.wav|just spent six years with that wonderful little fellow Miller Huggins
+./data/chunks/chunk-818-SNFDFO.wav|then do I spent the next nine years without outstanding leader that smart student of psychology
+./data/chunks/chunk-819-RYXFVI.wav|the best manager in baseball today Joe McCarthy
+./data/chunks/chunk-820-GQZKVQ.wav|sure I'm lucky
+./data/chunks/chunk-821-WNLCPB.wav|when the New York Giants a team you would give your right arm to beat and vice-versa sends you a gift that something
+./data/chunks/chunk-822-XPNLCB.wav|when everybody down to the groundskeepers and those boys in white coats remember you would trophies that something
+./data/chunks/chunk-823-XJMMPD.wav|when you have a wonderful mother-in-law who take sides with you and squabbles with her own daughter that something
+./data/chunks/chunk-824-VOTDEP.wav|when you have a father and a mother who work all their lives so you can have an education and build your body it's a blessing
+./data/chunks/chunk-825-LRFWFD.wav|when you have a wife who has been a tower of strength and showing more cards than you dreamed existed
+./data/chunks/chunk-826-DPQWLZ.wav|that's the finest I know
+./data/chunks/chunk-827-OCPQRN.wav|so I close in saying
+./data/chunks/chunk-828-PUTZAN.wav|there wasn't a dry eye in the house including Gehrig's
+./data/chunks/chunk-829-BBYWTH.wav|the New York Times the next day wrote
+./data/chunks/chunk-830-SLKRHE.wav|Avast Gathering sitting in absolute silence for a longer. Than perhaps any baseball crowd in history
+./data/chunks/chunk-831-FBHIXO.wav|her Derek himself deliver as amazing a valedictory as ever came from a ball player
+./data/chunks/chunk-832-NNJCEY.wav|it was an amazing speech not just because of the circumstances
+./data/chunks/chunk-833-ZPHSDR.wav|it was a speech about appreciating life
+./data/chunks/chunk-834-ZMKRKH.wav|about being grateful for what you have
+./data/chunks/chunk-835-WOEWAQ.wav|Derek wasn't asking for sympathy or for prayers he simply stated what his family the fans
+./data/chunks/chunk-836-VWJDEY.wav|baseball and what the day meant to him
+./data/chunks/chunk-837-XLDBQK.wav|Derek life with baseball
+./data/chunks/chunk-838-UTGZWP.wav|is a young kid who played in The Sandlot and in the streets of Manhattan
+./data/chunks/chunk-839-YUVPQD.wav|he played in the college athlete at Columbia University
+./data/chunks/chunk-840-QSIXAU.wav|as a pro he played in Yankee Stadium baseball's Cathedral
+./data/chunks/chunk-841-HSWGGT.wav|he made his major league debut at the age of 19
+./data/chunks/chunk-842-BHGHKB.wav|you want his first MVP award at the age of 24
+./data/chunks/chunk-843-ERWYVC.wav|by 8:30 he had amassed over 300 home runs
+./data/chunks/chunk-844-OPGIWN.wav|by the time he was 35 u16 World Series
+./data/chunks/chunk-845-OWAEMD.wav|is departure from baseball on from the world happened so quickly
+./data/chunks/chunk-846-AYNEXC.wav|on April 30th 1939 Garrett went hitless against the Senators in the 2100 30th consecutive game he played
+./data/chunks/chunk-847-VCEHZD.wav|before their next game on May 2nd
+./data/chunks/chunk-848-SIYKHW.wav|Derek benched himself
+./data/chunks/chunk-849-RALDSK.wav|he told McCarthy it was for the good of the team
+./data/chunks/chunk-850-AEXGRF.wav|Derek had been hitting just 1:43 That season as the illness began to break down his body
+./data/chunks/chunk-851-UQGCEE.wav|at the ceremony when McCarthy spoke
+./data/chunks/chunk-852-TXFHZO.wav|he said Lew what can I say except that it was a sad day in the life of everybody who knew you when you came to my hotel room that day in Detroit and told me you were quitting as a ballplayer because you felt yourself a hindrance to the team
+./data/chunks/chunk-853-GTQOFO.wav|my God man
+./data/chunks/chunk-854-AQQHNA.wav|you were never that
+./data/chunks/chunk-855-TMPXEP.wav|who remained with the team is Captain but never again appeared in the game after April 30th
+./data/chunks/chunk-856-JLVVZX.wav|in early June while on a road trip in Chicago he visited the Mayo Clinic in Minnesota
+./data/chunks/chunk-857-CFDASJ.wav|after extensive tests he was diagnosed with ALS on June 19th
+./data/chunks/chunk-858-YJVQVI.wav|1939
+./data/chunks/chunk-859-XKANRF.wav|is 36th birthday
+./data/chunks/chunk-860-DLEPLK.wav|after its public a Buy on July 4th
+./data/chunks/chunk-861-YXNJGW.wav|the Hall of Fame inducted Garrett by special election to commemorate the year in which he achieved his record
+./data/chunks/chunk-862-SHUZOQ.wav|they're talking about his consecutive games record of course
+./data/chunks/chunk-863-SESFIU.wav|the writers felt he needed to be enshrined while he was still alive
+./data/chunks/chunk-864-WFGPAT.wav|Derek passed away less than two years after his famous speech
+./data/chunks/chunk-865-UMMXNR.wav|Yankees honor their Captain with a monument in center field that year
+./data/chunks/chunk-866-NCRQHT.wav|in 1941
+./data/chunks/chunk-867-DHBJUY.wav|thanks for listening
